@@ -1,0 +1,38 @@
+body{
+    background-color: aquamarine;
+}
+.navbar{
+    background-image: url("https://img.favpng.com/20/11/13/logo-flower-royalty-free-png-favpng-T5kbUFNpSV0tFXRpGLzqXexZD.jpg");
+}
+.jumbotron{
+    background-image: url("https://img.favpng.com/20/11/13/logo-flower-royalty-free-png-favpng-T5kbUFNpSV0tFXRpGLzqXexZD.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#cardContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  height: 60vh;
+}
+
+
+.card{
+    background-color: black;
+    color: white;
+
+}
+h2{
+    margin-bottom: 40px;
+}
+
+card-text li{
+    margin-bottom: 30px;
+}
+.lead{
+    font-style: oblique;
+    font-weight: 800;
+}
+.display-4{
+    font-weight: bold;
+}
